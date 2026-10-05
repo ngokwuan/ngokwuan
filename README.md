@@ -12,6 +12,15 @@
 
 <br/>
 
+## 🎯 Goals & Focus
+
+- 🚀 **Goal:** grow as a **Software Engineer**, building scalable and secure backend systems
+- 🔭 **Now:** building [FlowForge](https://github.com/ngokwuan/flowforge), a workflow automation platform with a reliable execution engine
+- 🌱 **Learning:** NestJS, Next.js, system design, message queues (BullMQ) and testing
+- 📌 **Next:** ship FlowForge with a live demo, API docs and a short demo video
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 <table>
