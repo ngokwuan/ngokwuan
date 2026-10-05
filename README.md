@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Qu%E1%BA%ADn&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Fullstack%20Developer%20%C2%B7%20Backend-focused&descSize=20&descAlignY=60" alt="banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Qu%E1%BA%ADn&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Backend-focused&descSize=20&descAlignY=60" alt="banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=I+build+secure+and+scalable+backend+systems;NestJS+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Next.js+%C2%B7+React+for+the+frontend" alt="typing" />
 
