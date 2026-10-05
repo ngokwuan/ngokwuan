@@ -84,13 +84,9 @@
 
 <br/>
 
-## 📈 Contributions in the last year
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://ghchart.rshah.org/1f6feb/ngokwuan" alt="ngokwuan contributions in the last year" width="100%" />
-
-<br/><br/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ngokwuan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" alt="stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngokwuan&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="top languages" />
 
